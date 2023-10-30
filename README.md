@@ -36,8 +36,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FA7343)
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=147EFB)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;\
+![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)
+![Apple](https://img.shields.io/badge/-Apple-05122A?style=flat&logo=apple&logoColor=999999)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)\
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft-office&logoColor=D83B01)
+![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark&logoColor=E25A1C)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -53,7 +63,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/angellarreategui/"><img src="https://img.shields.io/badge/-Angel%20Larreategui%20Castro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:angel_larreategui_02@hotmail.com"><img src="https://img.shields.io/badge/-angel_larreategui_02@hotmail.com-0072C6?style=flat&logo=Microsoft-Outlook&logoColor=white"/></a>
-<a href="https://instagram.com/MrAngelwwev2"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/MrAngelwwev2"><img src="https://img.shields.io/badge/-@MrAngelwwev2_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="[https://facebook.com/AVS1508](https://www.facebook.com/profile.php?id=61550357761247)"><img src="https://img.shields.io/badge/-Angel Larreategui Castro-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
