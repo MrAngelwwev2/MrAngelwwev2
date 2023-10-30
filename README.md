@@ -7,9 +7,8 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at Universidad Nacional de Ingeniería in Lima, Peru.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+🌱 &nbsp;I'm passionate about software development, especially mobile development on Android and iOS.\
+✍️ &nbsp;In my free time, I dedicate myself to staying informed about emerging technologies and also working on my personal projects.\
 ✉️ &nbsp;You can shoot me an email at angel_larreategui_02@hotmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1X3PVTDYwWTDzBjyd_1grUq7yL3Z5WS_G/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
@@ -35,6 +34,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Pega](https://img.shields.io/badge/-Pega-05122A?style=flat&logo=https://companieslogo.com/img/orig/PEGA-df8a22df.png?t=1681722937&logoColor=DF8A22)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FA7343)
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=147EFB)
