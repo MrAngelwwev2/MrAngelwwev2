@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at Universidad Nacional de Ingeniería in Lima, Peru.\
 🌱 &nbsp;I'm passionate about software development, especially mobile development on Android and iOS.\
 ✍️ &nbsp;In my free time, I dedicate myself to staying informed about emerging technologies and also working on my personal projects.\
