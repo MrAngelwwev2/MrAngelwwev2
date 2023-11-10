@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm passionate about software development, especially mobile development on Android and iOS.\
 ✍️ &nbsp;In my free time, I dedicate myself to staying informed about emerging technologies and also working on my personal projects.\
 ✉️ &nbsp;You can shoot me an email at angel_larreategui_02@hotmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1X3PVTDYwWTDzBjyd_1grUq7yL3Z5WS_G/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1X3PVTDYwWTDzBjyd_1grUq7yL3Z5WS_G/view?usp=sharing) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
