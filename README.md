@@ -63,7 +63,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/angellarreategui/"><img src="https://img.shields.io/badge/-Angel%20Larreategui%20Castro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:angel_larreategui_02@hotmail.com"><img src="https://img.shields.io/badge/-angel_larreategui_02@hotmail.com-0072C6?style=flat&logo=Microsoft-Outlook&logoColor=white"/></a>
-<a href="https://instagram.com/MrAngelwwev2"><img src="https://img.shields.io/badge/-@MrAngelwwev2_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="[https://facebook.com/AVS1508](https://www.facebook.com/profile.php?id=61550357761247)"><img src="https://img.shields.io/badge/-Angel Larreategui Castro-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
