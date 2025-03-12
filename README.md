@@ -14,6 +14,32 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+### 🚀  &nbsp;Featured Projects
+
+### [AmigoFarma](https://amigofarma.pe/) - E-commerce for Pharmaceuticals
+
+**Technologies Used:** Astro, JavaScript, HTML, CSS, API Integrations
+
+AmigoFarma is a modern and fast-performing online pharmacy built using Astro for the frontend. I developed this site from scratch, optimizing performance and ensuring smooth API integrations to handle product catalogs dynamically. Features include:
+
+- 🚀 **Fully responsive** design with a seamless user experience.
+- 🔍 **Efficient product search** and filtering functionalities.
+- 📦 **API integration** to sync product inventory and data in real-time.
+- 🔒 **Secure payment gateway integration** for seamless transactions.
+- ⚡ **Optimized for performance**, ensuring fast loading times.
+
+### [Matemath Web](https://matemathweb.com/) - Interactive Educational Platform
+
+**Technologies Used:** WordPress, Elementor, WooCommerce, Custom Plugins, APIs, PHP, JavaScript, HTML, CSS
+
+Matemath Web is an educational platform focused on interactive learning experiences. My role involved both frontend and backend development, implementing customized features and performance enhancements:
+
+- 🏗 **Developed and customized WordPress site** using Elementor.
+- 🔧 **Created custom plugins** to extend WordPress functionalities.
+- 📡 **Integrated APIs** for enhanced user interactivity.
+- 🛒 **Implemented WooCommerce** for online transactions and product management.
+- 🎯 **Optimized SEO and website performance** for better reach and usability.
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
