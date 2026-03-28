@@ -6,6 +6,18 @@
 
 [LinkedIn](https://www.linkedin.com/in/angellarreategui/) · [Email](mailto:angel_larreategui_02@hotmail.com) · [Resume](https://drive.google.com/file/d/1X3PVTDYwWTDzBjyd_1grUq7yL3Z5WS_G/view?usp=sharing)
 
+<p align="center">
+  <a href="https://onix.pe" title="Onix — corporate & digital platform">
+    <img src="https://img.shields.io/badge/ONIX-Corporate_%26_digital_platform-FF4B1F?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Onix corporate platform"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/i18n-ES_%7C_EN-0D1117?style=for-the-badge&logo=translate&logoColor=white" alt="i18n"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stack-Next.js_15_%2B_NestJS-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="Stack"/>
+</p>
+
+*Shipping a premium, bilingual corporate experience for **automotive** & **fire-protection / industrial safety** — live at **[onix.pe](https://onix.pe)**.*
+
 </div>
 
 <br/>
@@ -41,24 +53,11 @@ I hold a **Bachelor’s degree in Computer Science** from **Universidad Nacional
 | **Location** | Lima, Peru |
 | **Education** | B.Sc. Computer Science — UNI |
 | **Languages** | English (professional), Spanish (native) |
+| **Flagship build** | **[Onix](https://onix.pe)** — bilingual corporate platform (Next.js 15 + NestJS API) |
 
 ---
 
 ## Featured work
-
-### [AmigoFarma](https://amigofarma.pe/) — Pharmaceutical e-commerce
-
-End-to-end build of a **fast, modern pharmacy storefront** with Astro—emphasis on **speed**, **responsive UX**, and **dependable catalog** behaviour via APIs.
-
-**Stack:** Astro · JavaScript · HTML · CSS · REST / API integrations
-
-**Highlights**
-- Responsive layout and smooth product discovery (search & filters)  
-- Live catalog and inventory sync through APIs  
-- Secure checkout / payment integration  
-- Performance-minded implementation and lean delivery  
-
----
 
 ### [Matemath](https://matemathweb.com/) — Math learning platform (ed-tech)
 
@@ -73,6 +72,35 @@ End-to-end build of a **fast, modern pharmacy storefront** with Astro—emphasis
 - **Internal intranet** (React + Vite) for operations: students, workflows, and reporting-oriented features  
 - **Satellite products**: registration flows, **TikTok Ads** landing (leads & webhooks), and a **teacher exam** surface (math rendering, signatures) with **CI/CD** toward **AWS / Cloudflare**  
 - **SEO**, **performance**, and disciplined **staging vs production** workflows  
+
+---
+
+### [Onix](https://onix.pe) — Corporate platform (automotive · fire protection · industrial safety)
+
+End-to-end **corporate web** for **Onix**: a fast, **bilingual (ES/EN)** experience with **premium UI** (glassmorphism, motion, strong brand gradients), modular sections for **business units**, **blog**, and **lead-oriented flows**—plus a **floating WhatsApp** CTA. Backed by a **REST API** and production-minded **CORS / deployment** setup.
+
+**Stack:** Next.js 15 (App Router) · React 19 · TypeScript · Tailwind CSS 4 · NestJS · REST APIs · i18n · Vercel-ready frontend patterns
+
+**Highlights**
+- **Polished marketing UX**: hero, business cards, micro-interactions, and responsive layouts tuned for trust and clarity  
+- **Full i18n** with in-app language switching (ES/EN)  
+- **Multi-surface information architecture** (e.g. automotive, industrial protection, brands, about, blog)  
+- **API-backed content flows** with a dedicated production API domain  
+- **Performance- and SEO-oriented** metadata and canonical URLs aligned with the live domain  
+
+---
+
+### [AmigoFarma](https://amigofarma.pe/) — Pharmaceutical e-commerce
+
+End-to-end build of a **fast, modern pharmacy storefront** with Astro—emphasis on **speed**, **responsive UX**, and **dependable catalog** behaviour via APIs.
+
+**Stack:** Astro · JavaScript · HTML · CSS · REST / API integrations
+
+**Highlights**
+- Responsive layout and smooth product discovery (search & filters)  
+- Live catalog and inventory sync through APIs  
+- Secure checkout / payment integration  
+- Performance-minded implementation and lean delivery  
 
 ---
 
