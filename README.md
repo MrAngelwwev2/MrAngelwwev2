@@ -7,7 +7,7 @@
 [LinkedIn](https://www.linkedin.com/in/angellarreategui/) · [Email](mailto:angel_larreategui_02@hotmail.com) · [Resume](https://drive.google.com/file/d/1X3PVTDYwWTDzBjyd_1grUq7yL3Z5WS_G/view?usp=sharing)
 
 <p align="center">
-  <a href="https://onix.pe" title="Onix — corporate & digital platform">
+  <a href="https://onixfire.com.pe" title="Onix — corporate & digital platform">
     <img src="https://img.shields.io/badge/ONIX-Corporate_%26_digital_platform-FF4B1F?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Onix corporate platform"/>
   </a>
   &nbsp;
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Stack-Next.js_15_%2B_NestJS-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="Stack"/>
 </p>
 
-*Shipping a premium, bilingual corporate experience for **automotive** & **fire-protection / industrial safety** — live at **[onix.pe](https://onix.pe)**.*
+*Shipping a premium, bilingual corporate experience for **automotive** & **fire-protection / industrial safety** — live at **[onix.pe](https://onixfire.com.pe)**.*
 
 </div>
 
@@ -53,7 +53,7 @@ I hold a **Bachelor’s degree in Computer Science** from **Universidad Nacional
 | **Location** | Lima, Peru |
 | **Education** | B.Sc. Computer Science — UNI |
 | **Languages** | English (professional), Spanish (native) |
-| **Flagship build** | **[Onix](https://onix.pe)** — bilingual corporate platform (Next.js 15 + NestJS API) |
+| **Flagship build** | **[Onix](https://onixfire.com.pe)** — bilingual corporate platform (Next.js 15 + NestJS API) |
 
 ---
 
@@ -75,7 +75,7 @@ I hold a **Bachelor’s degree in Computer Science** from **Universidad Nacional
 
 ---
 
-### [Onix](https://onix.pe) — Corporate platform (automotive · fire protection · industrial safety)
+### [Onix](https://onixfire.com.pe) — Corporate platform (automotive · fire protection · industrial safety)
 
 End-to-end **corporate web** for **Onix**: a fast, **bilingual (ES/EN)** experience with **premium UI** (glassmorphism, motion, strong brand gradients), modular sections for **business units**, **blog**, and **lead-oriented flows**—plus a **floating WhatsApp** CTA. Backed by a **REST API** and production-minded **CORS / deployment** setup.
 
